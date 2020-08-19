@@ -1,0 +1,2 @@
+# AppDownload
+这是一款实现了多线程店端续传功能的Android应用程序
